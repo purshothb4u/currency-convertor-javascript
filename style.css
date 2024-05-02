@@ -1,0 +1,37 @@
+#body{
+    background-color: #DFD0B8;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   height: 100vh;
+    display: flex;
+    justify-content: center;   
+}
+
+#container{
+    background-color: #153448;
+    height: 33vh;
+    width: 30vw;
+    padding: 1.5rem;
+    position: absolute;
+    top: 30%; 
+}
+
+#select1, #select2{
+    background-color: #948979;
+    color: #153448;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+#heading{
+    color: #DFD0B8;
+    font-weight: bolder; 
+}
+
+#input1, #input2{
+   background-color: #DFD0B8;
+    color: #153448;
+    text-align: center;
+}
